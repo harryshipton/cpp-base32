@@ -6,5 +6,5 @@ SET(BASE32_SOURCES
 # Add library crossguid
 # ---------------------------
 
-add_library(base32 ${CROSSGUID_SOURCES})
+add_library(base32 ${BASE32_SOURCES})
 
